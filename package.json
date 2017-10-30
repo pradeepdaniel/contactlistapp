@@ -1,0 +1,13 @@
+{
+  "name": "contactlistapp",
+  "version": "0.0.1",
+  "description": "Simple Contact List application.",
+  "main": "server.js",
+  "author": "pradeep",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "mongodb": "2.2.33",
+    "express": "^4.16.2",
+    "mongojs": "^2.4.1"
+  }
+}
